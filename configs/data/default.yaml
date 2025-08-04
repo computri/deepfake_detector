@@ -1,0 +1,4 @@
+dataset_name: cifake
+root_dir: ./data
+batch_size: 64
+num_workers: 4

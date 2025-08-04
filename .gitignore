@@ -1,0 +1,36 @@
+# Python cache
+**/__pycache__/
+
+# Log files anywhere
+**/*.log
+
+# COCO data anywhere
+**/coco/annotations/
+**/coco/test2017/
+**/coco/train2017/
+**/coco/val2017/
+
+# CIFAKE data anywhere
+**/cifake/test/
+**/cifake/train/
+
+# Generated images anywhere
+**/generated_images/
+
+# Checkpoints anywhere
+**/checkpoints/
+
+# Lightning logs anywhere
+**/lightning_logs/
+
+# Compressed files
+**/*.zip
+
+# Jupyter notebooks folder
+**/notebooks/
+
+# Hydra outputs anywhere
+**/.hydra/
+
+# General outputs folder
+**/outputs/

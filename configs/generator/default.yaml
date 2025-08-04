@@ -1,0 +1,5 @@
+num_images_per_prompt: 5
+guidance_scale: 7.5
+num_inference_steps: 30
+prompt: "A documentary photograph of a _BLANK_"
+model_name: "stabilityai/stable-diffusion-xl-base-1.0"

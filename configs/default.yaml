@@ -1,0 +1,13 @@
+defaults:
+  - data: default
+  - train: default
+  - test: default
+  - system: default
+  - generator: default
+  - discriminator: default
+
+seed: 42
+device: gpu
+hydra:
+  run:
+    dir: .

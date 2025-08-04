@@ -1,0 +1,6 @@
+backbone: resnet18
+pretrained: false
+fine_tune: false
+compile: false
+checkpoint_save_path: null
+checkpoint_load_path: null
